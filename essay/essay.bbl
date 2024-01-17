@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+
+\bibitem{towardsDataScience}
+Nagesh~Singh Chauhan.
+\newblock Introduction to artificial neural networks(ann).
+\newblock
+  \url{https://towardsdatascience.com/introduction-to-artificial-neural-networks-ann-1aea15775ef9},
+  October 2019.
+
+\bibitem{hsu1995artificial}
+Kuo-lin Hsu, Hoshin~Vijai Gupta, and Soroosh Sorooshian.
+\newblock Artificial neural network modeling of the rainfall-runoff process.
+\newblock {\em Water resources research}, 31(10):2517--2530, 1995.
+
+\bibitem{lee1992short}
+KY~Lee, YT~Cha, and JH~Park.
+\newblock Short-term load forecasting using an artificial neural network.
+\newblock {\em IEEE transactions on power systems}, 7(1):124--132, 1992.
+
+\end{thebibliography}
